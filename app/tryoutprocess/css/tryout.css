@@ -1,0 +1,100 @@
+#info-tryout{
+    margin-top : 5%;
+    margin-left : 4%;
+}
+
+#tryout-title{
+    font-size : 36px;
+    text-align : bold;
+}
+
+#flex-container{
+    margin-left : 4%;
+    margin-right: 4%;
+    margin-top : 1%;
+    margin-bottom : 2%;
+}
+
+#counter{
+    font-size : 32px;
+    text-align:center;
+    font-weight: bold;
+}
+
+#tools {
+    margin-top : 2%;
+    margin-left:2%;
+    width: 35%;
+    background-color : #F2F2F2;
+}
+
+.btn-group-container{
+    margin-left : 21%;
+    
+}
+
+.btn-secondary{
+    color : black;
+    background-color :white;
+    border-color : #C70038;
+    margin-left : 8%;
+    margin-right : 8%;
+}
+
+.btn-secondary:hover{
+    background-color : #C70038;
+    color : white;
+    border-color : white;
+}
+
+.soal-button{
+    margin-top: 15%;
+    margin-bottom : 15%;
+}
+
+.btn-group{
+    margin-top : 1%;
+    margin-bottom:1%;
+}
+
+#Soal{
+    
+}
+
+#text-soal {
+    color : black;
+    font-weight: bold;
+    margin-top : 2%;
+    margin-left : 2%;
+    margin-right : 2%;
+}
+
+#question {
+    color : grey;
+    font-weight: bolder;
+   
+    margin-left : 2%;
+    margin-right : 2%;
+    font-size : 24px;
+}
+
+.jawaban{
+    width: 100%;
+    color : black;
+    background-color :white;
+    border-color : #C70038;
+    margin-top : 1%;
+    margin-bottom : 1%;
+}
+
+.jawaban:hover{
+    background-color : #C70038;
+    color : white;
+    border-color : white;
+}
+
+#gambar-soal{
+    text-align : center;
+    margin-left : 5%;
+    margin-right: 5%;
+}
